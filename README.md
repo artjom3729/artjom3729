@@ -1,8 +1,12 @@
-- 👋 Hi there, I’m artjom3729
-- 👀 I’m interested in translating your projects into Russian.
-- 🌱 I’m currently learning Python.
-- 💞️ I want to be useful and not so lazy.
-- 📫 Fun fact: I know about Russia more than Russians.
+👨Artjom aka Artyom aka Artem aka Artomka.
+🪆Russian in Estonia.
+🐍Python beginner.
+🈷️Translated 2 bots into Russian.
+📚Know Estonian, Russian, English, German and a bit of Spanish.
+🏛️Interested in politics, history, linguistics, maths.
+🚫I really hate when people provide no valid evidence to prove their statements.
+❤️I like everyone except for liberals, fascists and revisionists.
+💻Add me to friends on Discord artjom3729#5452.
 
 <!---
 artjom3729/artjom3729 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
