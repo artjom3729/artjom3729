@@ -7,6 +7,8 @@
 - 🚫I really hate when people provide no valid evidence to prove their statements.
 - ❤️I like everyone except for liberals, fascists and revisionists.
 - 💻Add me to friends on Discord artjom3729#5452.
+- 🟥Bolshevik
+- 🌍Yes, that's Muammar Gaddafi on my pfp.
 
 <!---
 artjom3729/artjom3729 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
