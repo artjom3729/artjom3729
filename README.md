@@ -4,8 +4,6 @@
 - 🈷️Translated 2 bots into Russian.
 - 📚Know Estonian, Russian, English, German and a bit of Spanish.
 - 🏛️Interested in politics, history, linguistics, maths.
-- 🚫I really hate when people provide no valid evidence to prove their statements.
-- ❤️I like everyone except for liberals, fascists and revisionists.
 - 💻Add me to friends on Discord artjom3729#5452.
 - 🟥Bolshevik
 - 🌍Yes, that's Muammar Gaddafi on my pfp.
