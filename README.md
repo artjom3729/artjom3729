@@ -1,10 +1,10 @@
-- 👨Artjom aka Artyom aka Artem aka Artomka.
+- 👨Pronounce my name as Artyom.
 - 🪆Russian in Estonia.
 - 🐍Python beginner.
 - 🈷️Translated 2 bots into Russian.
 - 📚Know Estonian, Russian, English, German and a bit of Spanish.
 - 🏛️Interested in politics, history, linguistics, maths.
-- 💻Add me to friends on Discord artjom3729#5452.
+- 💻Add me to friends on Discord artjom3729.
 - 🟥Bolshevik
 - 🌍Yes, that's Muammar Gaddafi on my pfp.
 
