@@ -22,7 +22,7 @@ I am a beginner developer and a student from Estonia.
 
 # My statistics:
 
-https://github-readme-streak-stats.herokuapp.com/?user=artjom3729&theme=dark&background=000000
+[![TEST](https://github-readme-streak-stats.herokuapp.com/?user=artjom3729&theme=dark&background=000000)](https://github-readme-streak-stats.herokuapp.com/?user=artjom3729&theme=dark&background=000000)
 
 # My social medias:
 
