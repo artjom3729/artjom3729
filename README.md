@@ -1,37 +1,43 @@
-# Hello there! Привет! Tervist! Hallo! As-Salaamu Alaykum!
+<div align="center">
 
-I am a beginner developer and a student from Estonia.
+# Hi, I'm Artjom 👋
 
-# About me:
+**IT Systems Development student at TalTech · Python developer · AI & software engineering enthusiast**
 
-- 👨Pronounce my name as Artyom.
-- 🪆I'm a Russian by nationality.
-- 🐍I love to develop Discord bots in Python.
-- 🈷️I am keen about translating open-source projects into Russian or Estonian.
-- 🌍I know Estonian, Russian and English fluently, I study German and Arabic.
-- 🏛️I am interested in politics, history, linguistics, real sciences and of course programming.
+I enjoy building software, exploring algorithms, and making technical ideas easier to understand.
+I'm particularly interested in **backend engineering, machine learning, cybersecurity, and scientific computing**.
 
-# Tools I use:
+[![GitHub](https://img.shields.io/badge/GitHub-artjom3729-181717?style=flat-square&logo=github)](https://github.com/artjom3729)
+![Profile views](https://komarev.com/ghpvc/?username=artjom3729&style=flat-square&color=64748b)
 
-<p>
-<img src="https://github.com/devicons/devicon/blob/master/icons/windows11/windows11-original.svg" title="Windows 11" alt="Windows 11" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VS Code" alt="VS Code" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/latex/latex-original.svg" title="LaTeX" alt="LaTeX" width="40" height="40"/>&nbsp;
-</p>
+</div>
 
-# My statistics:
+## About me
 
-[![TEST](https://github-readme-streak-stats.herokuapp.com/?user=artjom3729&theme=dark&background=000000)](https://github-readme-streak-stats.herokuapp.com/?user=artjom3729&theme=dark&background=000000)
+- 🎓 Studying IT systems development at **Tallinn University of Technology (TalTech)**.
+- 🐍 Most comfortable with **Python**; interested in writing maintainable, tested software.
+- 🧠 Awarded bronze medal at **International Olympiad in Artificial Intelligence (IOAI)**.
+- 🔬 Interested in the intersection of algorithms, AI, security, and scientific visualization.
+- 🤝 Involved in student technical communities and educational initiatives.
 
-# My social medias:
+## Tools & technologies
 
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/artjom3729)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/@artjom3729)
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/artjom3729)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=flat-square&logo=latex&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![discord.py](https://img.shields.io/badge/discord.py-5865F2?style=flat-square&logo=discord&logoColor=white)
 
+## GitHub activity
 
-<!---
-artjom3729/artjom3729 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<div align="center">
+
+[![GitHub activity and languages](https://gitshine.com/card/artjom3729?theme=dark)](https://gitshine.com/stats/artjom3729)
+
+</div>
+
+---
+
+<div align="center">
+<sub>Always learning, building, and improving.</sub>
+</div>
